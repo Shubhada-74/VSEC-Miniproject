@@ -1,0 +1,11 @@
+P101,Rice,60.0,20
+P102,Milk,30.0,15
+P103,Bread,25.0,12
+P104,Sugar (1kg),44.0,25
+P105,Wheat Flour (5kg),210.0,18
+P106,Sunflower Oil (1L),135.0,14
+P107,Assam Tea (250g),95.0,8
+P108,Eggs (Pack of 6),48.0,4
+P109,Dark Chocolate (100g),85.0,30
+P110,Organic Honey (500g),220.0,5
+
